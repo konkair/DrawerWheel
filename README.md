@@ -14,3 +14,30 @@ bill of materials (BOM) Prices are approximate; the dollar exchange rate fluctua
 | RS 775 DC Motor - 12V - 3000 RPM - Drill Motor | 328,32 | 7,16 | https://www.robo90.com/rs-775-dc-motor-12v-3000-rpm-matkap-motoru
 | 10mm Chrome-Plated Induction Shaft - 300mm | 218,88 | 4,77 | https://www.robo90.com/10mm-krom-kapli-induksiyonlu-mil-300mm
 | TOTAL | 3564,4 | 77,73
+
+okey so probably you would ask, WHY? just 3d print or buy some materials make a case??
+
+yo, this drawer is useless and i dont want to make new wastes by buying new materials, just why wouldnt i use it?
+(btw game steering wheel thingys are very expensive, so i make my own)
+
+lets start, First you need to find a drawer, it can be any type but its need to be durable, mine drawers floor is not too durable so i took one piece from mine drawer and put it below the floor:
+<div align="center">
+<img src="https://github.com/user-attachments/assets/116d3467-f4b9-4faf-b2eb-86fc4ade8ef5" width="300">
+<img src="https://github.com/user-attachments/assets/148878e8-4b3e-43fb-a568-ca450b622681" width="300">
+<img src="https://github.com/user-attachments/assets/0d379b49-cc8f-44ec-aae8-98c5bebee17a" width="300">
+ <p>like this</p>
+</div>
+
+and after that you need to model it, because you need to place pieces to their places and actually you need to 3d print, yeah i said i dont want to make waste, but yeah i cant make this without 3d print, at least im gonna use it less than normal :) For example, 3D printing will be needed to secure the parts, etc. you can make everything with wood, but i dont have that woody tools :( im gonna give you examples to how can you make it without 3D printer.
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/5b1debef-bac8-4b24-a0cf-75932ce6a9ac" alt="model of my drawer" width="400">
+  <p>Model of my drawer</p>
+</div>
+
+<div align="center">
+ <p>so now, you need to put the pieces to their place</p>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/839f6e1a-22e0-4de6-9181-46708f191351" alt="model of my drawer" width="600">
+<div align="center">
+ <p>this shaft is our main piece, because your wheel, encoder and the motor, like everything is connected to this shaft. place this shaft to middle of your drawer, otherwise it will be unbalanced and look bad.</p>
