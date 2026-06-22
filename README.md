@@ -1,8 +1,8 @@
-bill of materials (BOM) Prices are approximate; the dollar exchange rate fluctuates constantly, and the original prices are also being updated
+bill of materials (BOM) Prices are approximate; the dollar exchange rate fluctuates constantly, and the original prices are also being updated (These links lead to local sellers in Turkiye.)
 | Part | TRY | USD | Link |
 | --- | --- | --- | --- |
 | Rotary Encoder E6B2-CWZ6C 1000 Pulse | 937,64 | 20,19 | https://www.direnc.net/rotary-encoder-e6b2-cwz6c-1000-pulse
-| ESP32 S3 N16R8 WiFi Bluetooth Board | 568,26 | 12,23 | https://www.direnc.net/esp32-s3-n16r8-wifi-bluetooth-board
+| Arduino Leonardo R3 Klon | 369.35 TL | 7,95| https://www.voltaj.net/arduino-leonardo-r3-klon-usb-kablo-pmu1486
 | 12V 30A Slim Adapter | 739,80 | 15,93 | https://www.robolinkmarket.com/12v-30a-t-power-slim-adaptor
 | 14 AWG Silicone Cable (black) | 93 | 2,00 | https://www.robolinkmarket.com/14-awg-silikon-kablo-1-metre-siyah
 | 14 AWG Silicone Cable (red) | 93 | 2,00 | https://www.robolinkmarket.com/14-awg-silikon-kablo-1-metre-siyah
@@ -14,7 +14,7 @@ bill of materials (BOM) Prices are approximate; the dollar exchange rate fluctua
 | RS 775 DC Motor - 12V - 3000 RPM - Drill Motor | 334,80 | 7,21 | https://www.robo90.com/rs-775-dc-motor-12v-3000-rpm-matkap-motoru
 | 10mm Chrome-Plated Induction Shaft - 300mm | 223,20 | 4,81 | https://www.robo90.com/10mm-krom-kapli-induksiyonlu-mil-300mm
 | Insert Nut M5 | 4,46 (x1) 89,24  (x20) | 0,096 (x1) 1,92 (x20) | https://www.rhino3dprinter.com/urun/insert-somun-m5
-| TOTAL | 3707,17 | 79,81 | (shipping not included)
+| TOTAL | 3508,26 | 75,51 | (shipping not included)
 
 okey so probably you would ask, WHY? just 3d print or buy some materials make a case??
 
