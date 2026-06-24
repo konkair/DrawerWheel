@@ -16,12 +16,11 @@ bill of materials (BOM) Prices are approximate; the dollar exchange rate fluctua
 | Insert Nut M5 | 4,46 (x1) 89,24  (x20) | 0,096 (x1) 1,92 (x20) | https://www.rhino3dprinter.com/urun/insert-somun-m5
 | TOTAL | 3508,26 | 75,51 | (shipping not included)
 
-okey so probably you would ask, WHY? just 3d print or buy some materials make a case??
+Okay, you might be wondering why I didn't use a 3D printer or buy new materials to make a case.
 
-yo, this drawer is useless, just why wouldnt i use it?
-(btw game steering wheel thingys are very expensive, so i make my own)
+Yo this drawer is useless. Why wouldn't I use it? (btw, game steering wheels are very expensive, so I made my own.)
 
-lets start, First you need to find a drawer, it can be any type but its need to be durable, mine drawers floor is not too durable so i took one piece from mine drawer and put it below the floor:
+Let's start. First, you need to find a drawer. It can be any type, but it needs to be durable. Mine drawer's floor is not too durable, so I took one piece from my drawer and put it below the floor.
 <div align="center">
 <img src="https://github.com/user-attachments/assets/116d3467-f4b9-4faf-b2eb-86fc4ade8ef5" width="300">
 <img src="https://github.com/user-attachments/assets/148878e8-4b3e-43fb-a568-ca450b622681" width="300">
@@ -29,16 +28,16 @@ lets start, First you need to find a drawer, it can be any type but its need to 
  <p>like this</p>
 </div>
 
-and after that you need to model it, because you need to place pieces to their places and actually you need to 3d print (or skilled hands that can do it with wood)
+After that, you need to model it because you need to put the pieces in place. You actually need a 3D printer (or someone who can make it with wood).
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/5b1debef-bac8-4b24-a0cf-75932ce6a9ac" alt="model of my drawer" width="400">
-  <p>Model of my drawer</p>
+  <p>Here is a model of my drawer.</p>
 </div>
 
 <div align="center">
- <p>so now, you need to put the pieces to their place</p>
+ <p>Now, you need to put the pieces in place.</p>
 <div align="center">
   <img src="https://github.com/user-attachments/assets/839f6e1a-22e0-4de6-9181-46708f191351" alt="model of my drawer" width="600">
 <div align="center">
- <p>this shaft is our main piece, because your wheel, encoder and the motor, like everything is connected to this shaft. place this shaft to middle of your drawer, otherwise it will be unbalanced and look bad.</p>
+ <p>This shaft is our main piece because everything, like your wheel, encoder, and motor, is connected to it. Place the shaft in the middle of your drawer; otherwise, it will be unbalanced and look bad.</p>
