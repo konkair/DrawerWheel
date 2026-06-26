@@ -2,10 +2,10 @@ bill of materials (BOM) Prices are approximate; the dollar exchange rate fluctua
 | Part | TRY | USD | Link |
 | --- | --- | --- | --- |
 | Rotary Encoder E6B2-CWZ6C 1000 Pulse | 937,64 | 20,19 | https://www.direnc.net/rotary-encoder-e6b2-cwz6c-1000-pulse
-| Arduino Leonardo R3 Klon | 369.35 TL | 7,95| https://www.voltaj.net/arduino-leonardo-r3-klon-usb-kablo-pmu1486
-| 12V 30A Slim Adapter | 739,80 | 15,93 | https://www.robolinkmarket.com/12v-30a-t-power-slim-adaptor
+| Arduino Leonardo R3 Klon | 369.35 | 7,95| https://www.voltaj.net/arduino-leonardo-r3-klon-usb-kablo-pmu1486
+| 12V 30A Power Supply | 919,20 | 19,72 | https://www.robolinkmarket.com/12v-30a-metal-kasa-adaptor
 | 14 AWG Silicone Cable (black) | 93 | 2,00 | https://www.robolinkmarket.com/14-awg-silikon-kablo-1-metre-siyah
-| 14 AWG Silicone Cable (red) | 93 | 2,00 | https://www.robolinkmarket.com/14-awg-silikon-kablo-1-metre-siyah
+| 14 AWG Silicone Cable (red) | 93 | 2,00 | https://www.robolinkmarket.com/14-awg-silikon-kablo-1-metre-kirmizi
 | GT2 Closed-End Belt - 280mm (Buy the 240mm if you can find it) | 72,54 | 1,56 | https://www.robo90.com/gt2-6mm-kapali-zamanlama-kayisi-280mm-uzunluk
 | BTS7960B 40-Amp Motor Driver Board | 259.05 | 5,58 | https://www.voltaj.net/43a-5-27v-cift-bts7960b-h-kopru-yuksek-guc-motor-surucu-modulu-pmu1135
 | 20-Tooth GT2-6mm Pulley - 5mm Shaft Diameter | 39,00 | 0,84 | https://www.robolinkmarket.com/20-dis-gt2-6mm-kasnak-5mm-saft-capi
@@ -14,30 +14,21 @@ bill of materials (BOM) Prices are approximate; the dollar exchange rate fluctua
 | RS 775 DC Motor - 12V - 3000 RPM - Drill Motor | 334,80 | 7,21 | https://www.robo90.com/rs-775-dc-motor-12v-3000-rpm-matkap-motoru
 | 10mm Chrome-Plated Induction Shaft - 300mm | 223,20 | 4,81 | https://www.robo90.com/10mm-krom-kapli-induksiyonlu-mil-300mm
 | Insert Nut M5 | 4,46 (x1) 89,24  (x20) | 0,096 (x1) 1,92 (x20) | https://www.rhino3dprinter.com/urun/insert-somun-m5
-| TOTAL | 3508,26 | 75,51 | (shipping not included)
+| TOTAL | 3.687,66 | 79,3 | (shipping not included)
 
 Okay, you might be wondering why I didn't use a 3D printer or buy new materials to make a case.
 
-Yo this drawer is useless. Why wouldn't I use it? (btw, game steering wheels are very expensive, so I made my own.)
+Yo this drawer is useless. Why wouldn't I use it? (and stronger than 3D printed cases)
 
-Let's start. First, you need to find a drawer. It can be any type, but it needs to be durable. Mine drawer's floor is not too durable, so I took one piece from my drawer and put it below the floor.
+I'm making this project because I want a steering wheel, but they're expensive and you can actually make better than the ones on the market for cheaper. and at the same time this project will teach you (and me) a lot.
+
+This is the schematic for this project
 <div align="center">
-<img src="https://github.com/user-attachments/assets/116d3467-f4b9-4faf-b2eb-86fc4ade8ef5" width="300">
-<img src="https://github.com/user-attachments/assets/148878e8-4b3e-43fb-a568-ca450b622681" width="300">
-<img src="https://github.com/user-attachments/assets/0d379b49-cc8f-44ec-aae8-98c5bebee17a" width="300">
- <p>like this</p>
+<img src="https://github.com/user-attachments/assets/4edd468b-7f72-474d-85c8-245d2e56b416" width="1600">
+ <p>(This schematic is not final and may change as the project progresses. And this is actually my first schematic.)</p>
 </div>
 
-After that, you need to model it because you need to put the pieces in place. You actually need a 3D printer (or someone who can make it with wood).
+The Arduino Leonardo will be sufficient for a project of this power, I'm not using the ESP32-3S or STM32 because the softwares made for these microcontrollers is usually for direct drive, but this project is not direct drive, so it does not require a lot processing power, There is a software for the Arduino Leonardo that is specifically designed for these modules and project purpose: https://github.com/ranenbg/Arduino-FFB-wheel This is the software and the original wiring diagram can be found at that link. There is no problem with my schematic either, don't worry, it is suitable for the software. If it is not suitable, I will update it.
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/5b1debef-bac8-4b24-a0cf-75932ce6a9ac" alt="model of my drawer" width="400">
-  <p>Here is a model of my drawer.</p>
-</div>
-
-<div align="center">
- <p>Now, you need to put the pieces in place.</p>
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/839f6e1a-22e0-4de6-9181-46708f191351" alt="model of my drawer" width="600">
-<div align="center">
- <p>This shaft is our main piece because everything, like your wheel, encoder, and motor, is connected to it. Place the shaft in the middle of your drawer; otherwise, it will be unbalanced and look bad.</p>
+ <p></p>
