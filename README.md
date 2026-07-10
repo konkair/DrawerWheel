@@ -1,4 +1,51 @@
-bill of materials (BOM) Prices are approximate; the dollar exchange rate fluctuates constantly, and the original prices are also being updated (These links lead to local sellers in Turkiye.)
+
+# Why Im Building This?
+
+I'm building this project because I want a steering wheel, but they're expensive and you can actually make better than the ones on the market for cheaper. and at the same time this project will teach you (and me) a lot.
+and you might be wondering why I didn't use a 3D printer or buy new materials to make a case.
+
+this drawer is useless. Why wouldn't I use it? (and stronger than 3D printed cases)
+
+# 3D Part Guide
+
+### Desk clamp
+
+In the 76th layer, there is a stop. In this layer, you need to insert the hex nut into this place:
+<img width="856" height="465" alt="image" src="https://github.com/user-attachments/assets/dea53b1a-8956-484b-ac72-fca09810fd0a" />
+
+Then resume printing.
+
+
+### Thumb Screw Knob
+
+Just print it as normal, then glue the hex-headed screw into this spot.
+
+<img width="290" height="257" alt="image" src="https://github.com/user-attachments/assets/2c407114-d339-4f69-a5b6-8d5c67d961ce" />
+
+
+
+*There is nothing special about the other parts, but you need to use the 3MF file that I uploaded to GitHub because the settings for each part are different.*
+
+# Build Guide
+
+You can figure out how to build this project by reviewing the fullbuild model; I'm thinking of putting together a short guide after I build the project, but I'm not sure yet.
+
+
+This is the schematic for this project
+<div align="center">
+<img src="https://github.com/user-attachments/assets/4edd468b-7f72-474d-85c8-245d2e56b416" width="1600">
+ <p>(This schematic is not final and may change as the project progresses. And this is actually my first schematic.)</p>
+</div>
+
+The Arduino Leonardo will be sufficient for a project of this power, I'm not using the ESP32-3S or STM32 because the softwares made for these microcontrollers is usually for direct drive, but this project is not direct drive, so it does not require a lot processing power, There is a software for the Arduino Leonardo that is specifically designed for these modules and project purpose: https://github.com/ranenbg/Arduino-FFB-wheel This is the software and the original wiring diagram can be found at that link.
+
+<div align="center">
+ <p></p>
+
+
+# Markdown Billl of Materials
+
+ bill of materials (BOM) Prices are approximate; the dollar exchange rate fluctuates constantly, and the original prices are also being updated (These links lead to local sellers in Turkiye.)
 | Part | QTY | TRY | USD | Link |
 | --- | --- | --- | --- | --- |
 | Rotary Encoder E6B2-CWZ6C 1000 Pulse | 1 | 937.64 | 20.01 | [https://www.direnc.net/rotary-encoder-e6b2-cwz6c-1000-pulse](https://www.direnc.net/rotary-encoder-e6b2-cwz6c-1000-pulse) |
@@ -16,12 +63,15 @@ bill of materials (BOM) Prices are approximate; the dollar exchange rate fluctua
 | Insert Nut M5 | 20 | 89.24 | 1.90 | [https://www.rhino3dprinter.com/urun/insert-somun-m5](https://www.rhino3dprinter.com/urun/insert-somun-m5) |
 | M6 Locknut | 4 | 3.28 | 0.07 | [https://www.hirdavatim.com.tr/urun/fiberli-somun-celik-m5-m39-m5](https://www.hirdavatim.com.tr/urun/fiberli-somun-celik-m5-m39-m5) |
 | M5 Locknut | 6 | 3.90 | 0.08 | [https://www.hirdavatim.com.tr/urun/fiberli-somun-celik-m5-m39-m5](https://www.hirdavatim.com.tr/urun/fiberli-somun-celik-m5-m39-m5) |
-| M3 Hex Nut | 2 | 0.64 | 0.01 | [https://www.hirdavatim.com.tr/urun/metrik-normal-celik-somun-m3-m48-m5](https://www.hirdavatim.com.tr/urun/metrik-normal-celik-somun-m3-m48-m5) |
+| M3 Hex Nut | 14 | 4.48 | 0.07 | [https://www.hirdavatim.com.tr/urun/metrik-normal-celik-somun-m3-m48-m5](https://www.hirdavatim.com.tr/urun/metrik-normal-celik-somun-m3-m48-m5) |
 | M12 Hex Nut | 2 | 5.54 | 0.12 | [https://www.hirdavatim.com.tr/urun/metrik-normal-celik-somun-m3-m48-m5](https://www.hirdavatim.com.tr/urun/metrik-normal-celik-somun-m3-m48-m5) |
 | M5 Hex Nut | 2 | 0.84 | 0.02 | [https://www.hirdavatim.com.tr/urun/metrik-normal-celik-somun-m3-m48-m5](https://www.hirdavatim.com.tr/urun/metrik-normal-celik-somun-m3-m48-m5) |
-| M6 40mm Allen Screw | 4 | 7.44 | 0.16 | [https://www.hirdavatim.com.tr/urun/m6-imbus-civatalar-8-8-kalite-m6-40-mm](https://www.hirdavatim.com.tr/urun/m6-imbus-civatalar-8-8-kalite-m6-40-mm) |
-| M3 20mm Allen Screw | 2 |  |  |  |
-| M5 30mm Allen Screw | 3 | 4.32 | 0.09 | [https://www.hirdavatim.com.tr/urun/m6-imbus-civatalar-8-8-kalite-m6-40-mm](https://www.hirdavatim.com.tr/urun/m6-imbus-civatalar-8-8-kalite-m6-40-mm) |
+| M6 40mm Pan Head Screw | 4 | 7.44 | 0.16 | [https://www.hirdavatim.com.tr/urun/m6-imbus-civatalar-8-8-kalite-m6-40-mm](https://www.hirdavatim.com.tr/urun/m6-imbus-civatalar-8-8-kalite-m6-40-mm) |
+| M3 20mm Pan Head Screw | 2 | N/A | N/A | N/A |
+| M3 30mm Pan Head Screw | 4 | N/A | N/A | N/A |
+| M3 50mm Pan Head Screw | 4 | N/A | N/A | N/A |
+| M3 12mm Pan Head Screw | 4 | N/A | N/A | N/A |
+| M5 30mm Pan Head Screw | 3 | 4.32 | 0.09 | [https://www.hirdavatim.com.tr/urun/m6-imbus-civatalar-8-8-kalite-m6-40-mm](https://www.hirdavatim.com.tr/urun/m6-imbus-civatalar-8-8-kalite-m6-40-mm) |
 | M12 50mm Hex Head Screw | 2 | 16.98 | 0.36 | [https://www.hirdavatim.com.tr/urun/m12-anahtar-basli-celik-civatalar-8-8-kalite-m12x50-mm](https://www.hirdavatim.com.tr/urun/m12-anahtar-basli-celik-civatalar-8-8-kalite-m12x50-mm) |
 | M5 12mm Allen Screw | 1 | 1.32 | 0.03 | [https://www.hirdavatim.com.tr/urun/m6-imbus-civatalar-8-8-kalite-m6-40-mm](https://www.hirdavatim.com.tr/urun/m6-imbus-civatalar-8-8-kalite-m6-40-mm) |
 | M5 20mm Allen Screw | 1 | 1.41 | 0.03 | [https://www.hirdavatim.com.tr/urun/m6-imbus-civatalar-8-8-kalite-m6-40-mm](https://www.hirdavatim.com.tr/urun/m6-imbus-civatalar-8-8-kalite-m6-40-mm) |
@@ -30,20 +80,3 @@ bill of materials (BOM) Prices are approximate; the dollar exchange rate fluctua
 | M5 Washer | 14 | 1.40 | 0.03 | [https://www.hirdavatim.com.tr/urun/metrik-demir-pul-cesitleri-05-mm](https://www.hirdavatim.com.tr/urun/metrik-demir-pul-cesitleri-05-mm) |
 | M6 Washer | 4 | 0.72 | 0.02 | [https://www.hirdavatim.com.tr/urun/metrik-demir-pul-cesitleri-05-mm](https://www.hirdavatim.com.tr/urun/metrik-demir-pul-cesitleri-05-mm) |
 | **TOTAL** |  | **3,889.31** | **83.00** | (shipping not included) |
-
-Okay, you might be wondering why I didn't use a 3D printer or buy new materials to make a case.
-
-Yo this drawer is useless. Why wouldn't I use it? (and stronger than 3D printed cases)
-
-I'm making this project because I want a steering wheel, but they're expensive and you can actually make better than the ones on the market for cheaper. and at the same time this project will teach you (and me) a lot.
-
-This is the schematic for this project
-<div align="center">
-<img src="https://github.com/user-attachments/assets/4edd468b-7f72-474d-85c8-245d2e56b416" width="1600">
- <p>(This schematic is not final and may change as the project progresses. And this is actually my first schematic.)</p>
-</div>
-
-The Arduino Leonardo will be sufficient for a project of this power, I'm not using the ESP32-3S or STM32 because the softwares made for these microcontrollers is usually for direct drive, but this project is not direct drive, so it does not require a lot processing power, There is a software for the Arduino Leonardo that is specifically designed for these modules and project purpose: https://github.com/ranenbg/Arduino-FFB-wheel This is the software and the original wiring diagram can be found at that link.
-
-<div align="center">
- <p></p>
