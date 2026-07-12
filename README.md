@@ -1,4 +1,17 @@
 
+
+<img width="1920" height="722" alt="zz" src="https://github.com/user-attachments/assets/e65df026-e9fd-4b08-9398-76ff06f114d8" />
+
+
+<img width="1520" height="722" alt="Screenshot 2026-07-12 151130" src="https://github.com/user-attachments/assets/32c54c19-cdda-4622-9fa2-860ee5fee710" />
+
+
+<img width="1520" height="722" alt="2e02f5b3-c47f-4aac-a90a-409e35e45135" src="https://github.com/user-attachments/assets/e9d0ab70-481c-40e9-94ac-123a34f56987" />
+
+*You can take detailed measurements yourself using the full-build model.*
+
+
+
 # Why Im Building This?
 
 I'm building this project because I want a steering wheel, but they're expensive and you can actually make better than the ones on the market for cheaper. and at the same time this project will teach you (and me) a lot.
