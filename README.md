@@ -1,4 +1,13 @@
 
+<p align="center">
+  Models related to the steering wheel (paddle shift, wheel encoder) are designed for this steering wheel.
+  <br><br>
+  <img width="469" height="461" alt="image1" src="https://github.com/user-attachments/assets/c9d27bfe-b4da-4281-bfc6-63039ef5ae99" style="vertical-align: middle; margin: 10px;" />
+  <img width="220" alt="image2" src="https://github.com/user-attachments/assets/a815cc70-40b7-4f56-a009-1150a662146c" style="vertical-align: middle; margin: 10px;" />
+</p>
+
+
+
 
 <img width="1920" height="722" alt="zz" src="https://github.com/user-attachments/assets/e65df026-e9fd-4b08-9398-76ff06f114d8" />
 
