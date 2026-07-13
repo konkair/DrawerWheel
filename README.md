@@ -23,7 +23,7 @@ this drawer is useless. Why wouldn't I use it? (and stronger than 3D printed cas
 
 ### Desk clamp
 
-In the 76th layer, there is a stop. In this layer, you need to insert the hex nut into this place:
+In the 76th layer, there is a stop. In this layer, you need to insert the M12 hex nut into this place:
 <img width="856" height="465" alt="image" src="https://github.com/user-attachments/assets/dea53b1a-8956-484b-ac72-fca09810fd0a" />
 
 Then resume printing.
@@ -31,7 +31,7 @@ Then resume printing.
 
 ### Thumb Screw Knob
 
-Just print it as normal, then glue the hex-headed screw into this spot.
+Just print it as normal, then glue the M12 hex-headed screw into this spot.
 
 <img width="290" height="257" alt="image" src="https://github.com/user-attachments/assets/2c407114-d339-4f69-a5b6-8d5c67d961ce" />
 
@@ -79,17 +79,17 @@ The Arduino Leonardo will be sufficient for a project of this power, I'm not usi
 | M3 Hex Nut | 14 | 4.48 | 0.07 | [https://www.hirdavatim.com.tr/urun/metrik-normal-celik-somun-m3-m48-m5](https://www.hirdavatim.com.tr/urun/metrik-normal-celik-somun-m3-m48-m5) |
 | M12 Hex Nut | 2 | 5.54 | 0.12 | [https://www.hirdavatim.com.tr/urun/metrik-normal-celik-somun-m3-m48-m5](https://www.hirdavatim.com.tr/urun/metrik-normal-celik-somun-m3-m48-m5) |
 | M5 Hex Nut | 2 | 0.84 | 0.02 | [https://www.hirdavatim.com.tr/urun/metrik-normal-celik-somun-m3-m48-m5](https://www.hirdavatim.com.tr/urun/metrik-normal-celik-somun-m3-m48-m5) |
-| M6 40mm Pan Head Screw | 4 | 7.44 | 0.16 | [https://www.hirdavatim.com.tr/urun/m6-imbus-civatalar-8-8-kalite-m6-40-mm](https://www.hirdavatim.com.tr/urun/m6-imbus-civatalar-8-8-kalite-m6-40-mm) |
+| M6 40mm ALlen Screw | 4 | 7.44 | 0.16 | [https://www.hirdavatim.com.tr/urun/m6-imbus-civatalar-8-8-kalite-m6-40-mm](https://www.hirdavatim.com.tr/urun/m6-imbus-civatalar-8-8-kalite-m6-40-mm) |
 | M3 20mm Pan Head Screw | 2 | N/A | N/A | N/A |
 | M3 30mm Pan Head Screw | 4 | N/A | N/A | N/A |
 | M3 50mm Pan Head Screw | 4 | N/A | N/A | N/A |
 | M3 12mm Pan Head Screw | 4 | N/A | N/A | N/A |
-| M5 30mm Pan Head Screw | 3 | 4.32 | 0.09 | [https://www.hirdavatim.com.tr/urun/m6-imbus-civatalar-8-8-kalite-m6-40-mm](https://www.hirdavatim.com.tr/urun/m6-imbus-civatalar-8-8-kalite-m6-40-mm) |
+| M5 30mm Allen Screw | 3 | 4.32 | 0.09 | [https://www.hirdavatim.com.tr/urun/m6-imbus-civatalar-8-8-kalite-m6-40-mm](https://www.hirdavatim.com.tr/urun/m6-imbus-civatalar-8-8-kalite-m6-40-mm) |
 | M12 50mm Hex Head Screw | 2 | 16.98 | 0.36 | [https://www.hirdavatim.com.tr/urun/m12-anahtar-basli-celik-civatalar-8-8-kalite-m12x50-mm](https://www.hirdavatim.com.tr/urun/m12-anahtar-basli-celik-civatalar-8-8-kalite-m12x50-mm) |
 | M5 12mm Allen Screw | 1 | 1.32 | 0.03 | [https://www.hirdavatim.com.tr/urun/m6-imbus-civatalar-8-8-kalite-m6-40-mm](https://www.hirdavatim.com.tr/urun/m6-imbus-civatalar-8-8-kalite-m6-40-mm) |
 | M5 20mm Allen Screw | 1 | 1.41 | 0.03 | [https://www.hirdavatim.com.tr/urun/m6-imbus-civatalar-8-8-kalite-m6-40-mm](https://www.hirdavatim.com.tr/urun/m6-imbus-civatalar-8-8-kalite-m6-40-mm) |
 | 3.5X50mm Wood Screw (Pack of 20 - Min order) | 6 | 150.00 | 3.20 | [https://www.hepsiburada.com/meridyen-3-5x18-mm-sunta-vidasi-50-adet-p-HBV00000JIT71](https://www.hepsiburada.com/meridyen-3-5x18-mm-sunta-vidasi-50-adet-p-HBV00000JIT71) |
-| 3.20mmX18.5 | 8 |  |  |  |
+| 3.20mmX18.5 Wood Screw | 8 | N/A | N/A | N/A |
 | M5 Washer | 14 | 1.40 | 0.03 | [https://www.hirdavatim.com.tr/urun/metrik-demir-pul-cesitleri-05-mm](https://www.hirdavatim.com.tr/urun/metrik-demir-pul-cesitleri-05-mm) |
 | M6 Washer | 4 | 0.72 | 0.02 | [https://www.hirdavatim.com.tr/urun/metrik-demir-pul-cesitleri-05-mm](https://www.hirdavatim.com.tr/urun/metrik-demir-pul-cesitleri-05-mm) |
 | **TOTAL** |  | **3,889.31** | **83.00** | (shipping not included) |
