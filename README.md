@@ -1,14 +1,16 @@
-
+<h1 align="center">Before You Begin</h1>
+ 
 <p align="center">
-  Models related to the steering wheel (paddle shift, wheel encoder) are designed for this steering wheel.
+  Models related to the steering wheel (paddle shift, wheel encoder) are designed for this steering wheel:
   <br><br>
-  <img width="469" height="461" alt="image1" src="https://github.com/user-attachments/assets/c9d27bfe-b4da-4281-bfc6-63039ef5ae99" style="vertical-align: middle; margin: 10px;" />
-  <img width="220" alt="image2" src="https://github.com/user-attachments/assets/a815cc70-40b7-4f56-a009-1150a662146c" style="vertical-align: middle; margin: 10px;" />
+ <img width="469" height="461" alt="621088206-c9d27bfe-b4da-4281-bfc6-63039ef5ae99-Photoroom" src="https://github.com/user-attachments/assets/16e96729-bf80-4541-9500-fc57965cf35f" />
+  <img width="220" height="461" alt="image2" src="https://github.com/user-attachments/assets/a815cc70-40b7-4f56-a009-1150a662146c" style="vertical-align: middle; margin: 10px;" />
 </p>
+<p align="center">
+  (You can buy it secondhand; that's what I did.)
+   </p>
 
-
-
-
+# Full Build
 <img width="1920" height="722" alt="zz" src="https://github.com/user-attachments/assets/e65df026-e9fd-4b08-9398-76ff06f114d8" />
 
 
@@ -23,8 +25,8 @@
 
 # Why Im Building This?
 
-I'm building this project because I want a steering wheel, but they're expensive and you can actually make better than the ones on the market for cheaper. and at the same time this project will teach you (and me) a lot.
-and you might be wondering why I didn't use a 3D printer or buy new materials to make a case.
+I'm building this project because I want a steering wheel, but they're expensive and you can actually make better than the ones on the market for cheaper (I mean, I guess?). and at the same time this project will teach you (and me) a lot.
+and you might be wondering why I didn't use a 3D printer or buy new materials to make a case;
 
 this drawer is useless. Why wouldn't I use it? (and stronger than 3D printed cases)
 
@@ -59,7 +61,7 @@ This is the schematic for this project
  <p>(This schematic is not final and may change as the project progresses. And this is actually my first schematic.)</p>
 </div>
 
-The Arduino Leonardo will be sufficient for a project of this power, I'm not using the ESP32-3S or STM32 because the softwares made for these microcontrollers is usually for direct drive, but this project is not direct drive, so it does not require a lot processing power, There is a software for the Arduino Leonardo that is specifically designed for these modules and project purpose: https://github.com/ranenbg/Arduino-FFB-wheel This is the software and the original wiring diagram can be found at that link.
+The Arduino Leonardo will be sufficient for a project of this power, I'm not using the ESP32-3S or STM32 because the softwares made for these microcontrollers is usually for direct drive, but this project is not direct drive, so it does not require a lot processing power and there is a software for the Arduino Leonardo that is specifically designed for these modules and project purpose: https://github.com/ranenbg/Arduino-FFB-wheel This is the software and the original wiring diagram can be found at that link.
 
 <div align="center">
  <p></p>
