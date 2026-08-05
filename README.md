@@ -3,8 +3,8 @@
 <p align="center">
   Models related to the steering wheel (paddle shift, wheel encoder) are designed for this steering wheel:
   <br><br>
- <img width="469" height="461" alt="621088206-c9d27bfe-b4da-4281-bfc6-63039ef5ae99-Photoroom" src="https://github.com/user-attachments/assets/16e96729-bf80-4541-9500-fc57965cf35f" />
-  <img width="220" height="461" alt="image2" src="https://github.com/user-attachments/assets/a815cc70-40b7-4f56-a009-1150a662146c" style="vertical-align: middle; margin: 10px;" />
+ <img width="449" height="441" alt="621088206-c9d27bfe-b4da-4281-bfc6-63039ef5ae99-Photoroom" src="https://github.com/user-attachments/assets/16e96729-bf80-4541-9500-fc57965cf35f" />
+  <img width="200" height="441" alt="image2" src="https://github.com/user-attachments/assets/a815cc70-40b7-4f56-a009-1150a662146c" style="vertical-align: middle; margin: 10px;" />
 </p>
 <p align="center">
   (You can buy it secondhand; that's what I did.)
